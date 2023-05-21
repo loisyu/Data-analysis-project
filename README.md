@@ -1,4 +1,6 @@
 # Hi there , I am Eloise!
+I put all my projects in this repo 😄
+
 ## Skill
 :heavy_check_mark: Python
 :heavy_check_mark: R
